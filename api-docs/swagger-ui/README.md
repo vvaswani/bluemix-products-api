@@ -1,0 +1,1 @@
+Download the Swagger client source into this directory. Project page is https://github.com/wordnik/swagger-ui
