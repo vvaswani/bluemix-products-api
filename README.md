@@ -4,7 +4,6 @@ This is a REST API to create and manage a simple products database. It is intend
 
 ## Getting Started
 
-* Download the code from [JazzHub](https://hub.jazz.net/project/vvaswani/products-api). 
 * Follow the directions in [this IBM developerWorks article](http://www.ibm.com/developerworks/library/wa-deployrest-app/index.html) to download, install and configure the necessary dependencies. 
 * You can then deploy the API either to your local PHP/MySQL environment or to BlueMix.
 
